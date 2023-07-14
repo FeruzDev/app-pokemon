@@ -1,0 +1,30 @@
+
+.col-padding{
+  padding: 15px 0;
+}
+
+.mb-5{
+  margin-bottom: 5px;
+}
+
+.mt-5{
+  margin-top: 5px;
+}
+
+.btn-style{
+  width: 400px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.tag-content{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  flex-wrap: wrap;
+  span{
+    font-size: 18px;
+  }
+}
